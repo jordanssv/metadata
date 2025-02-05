@@ -1,1 +1,6 @@
-test
+{
+    "name": "J-Oracle",
+    "website": "https://www.joracle.io/",
+    "description": "J-Oracle delivers secure data feeds and real-world connectivity for blockchains and beyond.",
+    "logo": "https://raw.githubusercontent.com/jordanssv/metadata/refs/heads/main/JO.png"
+}
