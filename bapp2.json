@@ -1,6 +1,6 @@
 {
     "name": "iHOR",
     "description": "Web3 gateway to the iHOR network",
-    "logo": "https://your-hosted-content.com/image.png",
-    "website": "https://www.my-bapp-address.com/"
+    "logo": "https://metadata-pi.vercel.app/ihor.png",
+    "website": "https://www.ihor.io/"
 }
