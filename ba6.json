@@ -1,0 +1,6 @@
+{
+    "name": "HydraSync",
+    "description": "HydraSync offers high-throughput data availability sampling and snapshot verification for zk-rollups.",
+    "logo": "https://metadata-pi.vercel.app/b6.png",
+    "website": "https://www.hydrasync.tech/"
+}

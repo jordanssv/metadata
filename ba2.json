@@ -1,0 +1,6 @@
+{
+    "name": "NebulaGuard",
+    "description": "NebulaGuard provides decentralized slashing protection and validator integrity monitoring for modular blockchains.",
+    "logo": "https://metadata-pi.vercel.app/b2.png",
+    "website": "https://www.nebulaguard.net/"
+}
